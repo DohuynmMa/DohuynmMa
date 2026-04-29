@@ -5,7 +5,7 @@
 <br/>
 
 [![Bilibili](https://img.shields.io/badge/哔哩哔哩-NurlMe-18f7ff?style=for-the-badge&logo=bilibili&logoColor=18f7ff&labelColor=0D1117)](https://space.bilibili.com/405288318)
-[![GitHub followers](https://img.shields.io/github/followers/NurlMe?style=for-the-badge&logo=github&logoColor=18f7ff&color=18f7ff&labelColor=0D1117)](https://github.com/NurlMe)
+[![GitHub followers](https://img.shields.io/github/followers/DohuynmMa?style=for-the-badge&logo=github&logoColor=18f7ff&color=18f7ff&labelColor=0D1117)](https://github.com/DohuynmMa)
 
 </div>
 
